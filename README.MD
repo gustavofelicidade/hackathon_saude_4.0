@@ -8,7 +8,7 @@ Nosso propósito é inspirar e impulsionar o empreendedorismo jovem, promovendo 
 
 # Nossa Proposta: Triage Nurse Assistant
 
-![image.png](assets%2Fimages%2Fimage.png)
+![image2.png](assets%2Fimages%2Fimage2.png)
 
 ## Descrição
 
